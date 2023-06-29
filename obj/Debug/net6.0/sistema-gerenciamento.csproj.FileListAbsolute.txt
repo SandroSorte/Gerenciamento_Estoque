@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\bin\Debug\net6.0\sistema-gerenciamento.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\bin\Debug\net6.0\sistema-gerenciamento.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\bin\Debug\net6.0\sistema-gerenciamento.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\bin\Debug\net6.0\sistema-gerenciamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\bin\Debug\net6.0\sistema-gerenciamento.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\refint\sistema-gerenciamento.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\sistema-gerenciamento.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Portifolio\sistema-gerenciamento\obj\Debug\net6.0\ref\sistema-gerenciamento.dll
