@@ -27,11 +27,17 @@ namespace Gerenciamento
 
         {
             var moto = new Veiculo();
+            var carro = new Veiculo();
             int opcao = Menu();
 
             switch (opcao)
             {
                 case 1:
+                    WriteLine("");
+                    WriteLine("CARROS DISPONÍVEIS:");
+                    carro.ConsultarCarro();
+                    WriteLine("");
+                    break;
                 case 2:
                     WriteLine("");
                     WriteLine("MOTOS DISPONÍVEIS:");

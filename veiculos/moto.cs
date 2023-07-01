@@ -7,8 +7,8 @@ namespace Veiculos
         {
 
         }
-        public static readonly Moto moto1 = new(100, "Hyunday", "CG 160 Start", 13280);
-        public static readonly Moto moto2 = new(101,"Hyunday", "CG 160 fan", 14570 );
-        public static readonly Moto moto3 = new(102, "Honda", "Pop 1101", 9010 );
+        public static Moto moto1 = new(100, "Hyunday", "CG 160 Start", 13280);
+        public static Moto moto2 = new(101,"Hyunday", "CG 160 fan", 14570 );
+        public static Moto moto3 = new(102, "Honda", "Pop 1101", 9010 );
     }
 }

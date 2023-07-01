@@ -37,6 +37,20 @@ namespace Veiculos
             }
 
         }
+        public void ConsultarCarro()
+        {
+            List<Carro> carros = new List<Carro>
+        {
+            Carro.carro1, Carro.carro2, Carro.carro3
+        };
+
+            foreach (var carro in carros)
+            {
+                WriteLine("");
+                WriteLine($"{carro.codId} - Marca: {carro.marca} | Modelo: {carro.modelo} | Valor: R$ {carro.preco}");
+            }
+
+        }
 
     }
 }
